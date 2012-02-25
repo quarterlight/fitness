@@ -3,7 +3,7 @@
 define("DB_SERVER", "localhost");
 define("DB_USER", "root");
 define("DB_PASS", "root");
-define("DB_NAME", "sandbox");
+define("DB_NAME", "fitness");
 
 
 $conn = mysql_connect(DB_SERVER,DB_USER,DB_PASS);
